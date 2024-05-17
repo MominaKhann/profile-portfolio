@@ -1,27 +1,19 @@
-PROFILE
-•	Data driven professional with 9 years of experience in conducting deep dives to generate data backed insights for decision making regarding product performance, process improvement, experimental results and managing cross-functional teams
-•	Proficient in tools such as SQL, Python, Tableau, Power BI, SAS EM, AWS Cloud, Minitab, MS Project, Smartsheets, MS Excel
-•	Certifications: Tableau: Tableau Desktop Specialist, AWS Certified: Cloud Practitioner, Microsoft Certified: Azure Fundamentals, SAS: Operations Research with SAS Optimization
+#PROFILE
+- Data driven professional with 9 years of experience in conducting deep dives to generate data backed insights for decision making regarding product performance, process improvement, experimental results and managing cross-functional teams
+- Proficient in tools such as SQL, Python, Tableau, Power BI, SAS EM, AWS Cloud, Minitab, MS Project, Smartsheets, MS Excel
+- Certifications: Tableau: Tableau Desktop Specialist, AWS Certified: Cloud Practitioner, Microsoft Certified: Azure Fundamentals, SAS: Operations Research with SAS Optimization
 
-EDUCATION
-Purdue University, Daniels School of Business
-Master of Science in Business Analytics and Information Management (GPA: 3.82/4.00)	West Lafayette, IN
-Aug 2024
-•	Mgt of Organizational Data, Web Data Analytics, Data Mining, Machine Learning, ML Operations on Cloud 
+###EDUCATION
+- Purdue University, Daniels School of Business 2024
+- National University of Computer and Emerging Sciences 2013 
 
-National University of Computer and Emerging Sciences
-Bachelor of Business Administration, Marketing (GPA 3.86/4.00)	
-Islamabad, Pakistan
-Dec 2013 
-•	Business Statistics, Statistical Inference, Management Information Systems, Project Management, Marketing Management
-
-PROFESSIONAL EXPERIENCE	
-Meijer Inc.
+###PROFESSIONAL EXPERIENCE	
+- Meijer Inc.
 Analytics Consultant 	West Lafayette, IN
 Jan 2024 – Apr 2024
 •	Engineered an interactive solution in PowerBI supported by LSTM predictive modeling for SKU-level daily sales forecast (MSE value of 0.07), optimizing product placement to enhance On Shelf Availability (OSA) by 9%
 
-Jazz, PMCL
+- Jazz, PMCL
 Senior Business Analyst	Islamabad, Pakistan
 Jul 2020 – Aug 2023
 •	Defined OKRs and built automated Tableau dashboard for Multiplay, a cross service usage metric, boosting digital adoption by 4%
